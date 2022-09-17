@@ -36,7 +36,7 @@
 I was a teenager, browsing the web and trying to understand a little bit of how everything is done.
 <p>
 <p align="justify"> 
- &emsp;Life have its own ways, which took me to the construction sites, and I ended up getting my 
+ &emsp;Life have its own ways, which took me to the constructions fields, and I ended up getting my 
   <b>Civil Engineer degree</b>. But I never let behind my love and curiosity about techs... 
 </p>
 <p align="justify"> 
