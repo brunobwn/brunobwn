@@ -61,7 +61,8 @@ I was a teenager, browsing the web and trying to understand a little bit of how 
 <h4 align="center"><a href="#social" target="_self">⬆️<ins>Please feel free to contact me at any social link above</ins>⬆️</a></h4>
 </section>
 <hr>
-<section>
-<a href='#'><img align="left" src="https://github-readme-stats.vercel.app/api?username=brunobwn&theme=radical&show_icons=true" alt="Perfil Stats" /></a>
-<a href='#'><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunobwn&layout=compact" alt="Top langs" /></a> 
+<section align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=brunobwn&theme=radical&show_icons=true" alt="Perfil Stats" />
+<br><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunobwn&layout=compact&theme=radical" alt="Top langs" />
 </section>
