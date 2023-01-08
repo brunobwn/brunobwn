@@ -55,9 +55,6 @@ I was a teenager, browsing the web and trying to understand a little bit of how 
 <p align="justify">
   &emsp;In my free time I like to produce music! I'm a <b>Techno Producer</b> and <b>DJ</b>, some of my tracks are available on Spotify/ITunes app. <a href='https://open.spotify.com/artist/5GJaM1rqPvOsl030dv2tBB?si=DRHED7GoTeOWv4iWCoBnMQ' target='_blank'><i>You can support me listening here ❤️</i></a>
 </p>
-<p align="justify">
-  &emsp;But everyone needs a break every once and a while, and when I need one, I like to play with my friends. <b>What I play?</b> Mostly FPS (like <i>CSGO</i> and <i>Valorant</i>), but I also enjoy some casual and strategy games (like <i>Orc's must Die!</i> and <i>Satisfactory</i>).
-</p>
 <h4 align="center"><a href="#social" target="_self">⬆️<ins>Please feel free to contact me at any social link above</ins>⬆️</a></h4>
 </section>
 <hr>
